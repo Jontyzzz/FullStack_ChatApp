@@ -4,6 +4,6 @@
   "scripts": {
     "install": "cd Backend && npm install && cd ../Frontend && npm install",
     "build": "cd Frontend && npm install && npm run build",
-    "start": "cd Backend && node index.js"
+    "start": "cd Backend && node src/index.js"
   }
 }
